@@ -1,1 +1,1 @@
-# plugin-wazeintime
+# plugin-center
